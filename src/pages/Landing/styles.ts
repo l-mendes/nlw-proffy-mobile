@@ -49,9 +49,9 @@ const styles = StyleSheet.create({
     },
 
     buttonText: {
-        fontFamily: "Archive_700Bold",
+        fontFamily: "Archivo_700Bold",
         color: "#FFF",
-        fontSize: 20
+        fontSize: 18
     },
 
     totalConnections: {
